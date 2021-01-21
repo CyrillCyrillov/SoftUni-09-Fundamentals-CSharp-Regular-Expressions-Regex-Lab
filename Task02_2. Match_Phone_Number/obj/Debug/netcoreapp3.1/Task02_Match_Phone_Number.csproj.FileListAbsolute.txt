@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\bin\Debug\netcoreapp3.1\Task02_Match_Phone_Number.exe
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\bin\Debug\netcoreapp3.1\Task02_Match_Phone_Number.deps.json
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\bin\Debug\netcoreapp3.1\Task02_Match_Phone_Number.runtimeconfig.json
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\bin\Debug\netcoreapp3.1\Task02_Match_Phone_Number.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\bin\Debug\netcoreapp3.1\Task02_Match_Phone_Number.dll
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\bin\Debug\netcoreapp3.1\Task02_Match_Phone_Number.pdb
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.dll
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.pdb
+C:\Users\Kiril\source\repos\09_Lab\Task02_2. Match_Phone_Number\obj\Debug\netcoreapp3.1\Task02_Match_Phone_Number.genruntimeconfig.cache
