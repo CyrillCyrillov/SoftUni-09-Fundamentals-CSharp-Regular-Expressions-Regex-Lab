@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\bin\Debug\netcoreapp3.1\Task01_Match_Full_Name.exe
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\bin\Debug\netcoreapp3.1\Task01_Match_Full_Name.deps.json
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\bin\Debug\netcoreapp3.1\Task01_Match_Full_Name.runtimeconfig.json
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\bin\Debug\netcoreapp3.1\Task01_Match_Full_Name.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\bin\Debug\netcoreapp3.1\Task01_Match_Full_Name.dll
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\bin\Debug\netcoreapp3.1\Task01_Match_Full_Name.pdb
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.dll
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.pdb
+C:\Users\Kiril\source\repos\09_Lab\09_Lab\obj\Debug\netcoreapp3.1\Task01_Match_Full_Name.genruntimeconfig.cache
